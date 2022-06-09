@@ -44,4 +44,3 @@ print(bucketSort(x))
 
 # This code is contributed by
 # Oneil Hsiao
-#%%
